@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MSTDC"
+    }
+  },
+  "defaultProject": "MSTDC",
+  "cli": {
+    "analytics": "48d8459a-ba2c-4261-91d9-4d6ef8f541f6"
+  }
 }
